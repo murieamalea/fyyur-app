@@ -20,6 +20,7 @@ from forms import *
 # TODO: connect to a local postgresql database
 migrate = Migrate(app, db)
 
+
 # ----------------------------------------------------------------------------#
 # Filters.
 # ----------------------------------------------------------------------------#
